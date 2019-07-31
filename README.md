@@ -1,0 +1,2 @@
+# davidstevens
+Director of IT &amp; Digital Strategy developing innovative web services solutions for higher education, nonprofits, and small to medium sized businesses. Designing and developing immersive WordPress web experiences featuring API integrations with eCommerce, registration systems, and CRM platforms. Planning and managing digital and content marketing strategies, and measuring user engagement, conversions, and KPIs using Google analytics and data reporting tools.
